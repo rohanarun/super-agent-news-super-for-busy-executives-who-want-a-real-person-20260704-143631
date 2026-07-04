@@ -1,0 +1,27 @@
+{
+  "citations": [
+    "[nytimes.com](https://www.nytimes.com/2026/06/08/technology/ai-twin-busy-executives.html)",
+    "[wsj.com](https://www.wsj.com/articles/too-much-work-to-do-have-your-digital-twin-handle-it-2026)",
+    "[techcrunch.com](https://techcrunch.com/2026/06/02/microsoft-launches-scout-openclaw-inspired-personal-assistant/)",
+    "[blog.google](https://blog.google/technology/ai/introducing-computer-use-in-gemini-3-5-flash/)",
+    "[scmedia.com](https://www.scmagazine.com/news/shell-injection-flaw-open-source-ai-agents)",
+    "[mit.edu](https://news.mit.edu/2026/what-is-agentic-ai-today)"
+  ],
+  "design_plan": "rng_seed=42; architecture=reuse_comparison_template; AIDA=pass; hero_lines=2.4; bento_density=grid-auto-flow:dense; competitors_checked=true; button_contrast=pass",
+  "generated_at": "2026-07-04T14:36:37.708243+00:00",
+  "headline": "Super for busy executives who want a real personal assistant",
+  "site_brief": {
+    "audience": "busy executives who want a real personal assistant",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "busy executives who want a real personal assistant AI assistant",
+      "busy executives who want a real personal assistant personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-busy-executives-who-want-a-real-personal-assista",
+    "title": "Super for busy executives who want a real personal assistant"
+  },
+  "summary": "A conversion\u2011focused niche landing page for executives who don\u2019t need another chatbot \u2014 they need an assistant that actually does the work. Grounded in current reporting on agentic AI, computer\u2011use assistants, and executive productivity, this page positions Super as the sharper alternative for repeated, real computer work thanks to its reusable computer\u2011use cache."
+}
